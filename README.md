@@ -1,4 +1,4 @@
-# The Pact — A Human-AI Relational Practice
+# The Pact — Human-AI Relational Practice
 
 ## What this is
 
